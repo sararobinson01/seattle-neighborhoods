@@ -4,5 +4,6 @@ Capitol Hill
 South Lake Union
 Belltown
 Wallingford
+Ravenna
 Ballard
 These are neighborhoods in Seattle.
