@@ -1,0 +1,8 @@
+Seattle Neighborhoods
+
+Capitol Hill
+South Lake Union
+Belltown
+Wallingford
+Ballard
+These are neighborhoods in Seattle.
